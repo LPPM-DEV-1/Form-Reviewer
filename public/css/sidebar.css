@@ -1,0 +1,23 @@
+.bg-sidebar{
+    background: #044680;
+}
+
+.navigasi{
+    color: #fec812;
+}
+
+.logo-navigasi{
+    color: #fec812;
+}
+
+.nav-item.active {
+    width: 100%;
+    background-color: rgba(200, 200, 200, 0.5);
+    border-radius: 12px;
+}
+
+/* Style for the anchor tag inside the active button */
+.nav-item.active .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+}
